@@ -2,8 +2,8 @@
 
 ## Installation
 ```bash
-get clone ...
-cd ...
+get clone https://github.com/the-valluvarsploit/PDFmerger.git
+cd PDFmerger
 pip3 install -r requirements.txt
 ```
 
